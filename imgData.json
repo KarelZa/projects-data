@@ -4,209 +4,239 @@
 		"id": "1",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Mount Fuji"
+		"name": "Mount Fuji",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653376549608-502c80cfd555",
 		"id": "2",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Night life"
+		"name": "Night life",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653185225189-8e0516ee5284",
 		"id": "3",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Off day"
+		"name": "Off day",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652533881651-1e1d7f374b3b",
 		"id": "4",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Trunk"
+		"name": "Trunk",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653376774810-a81964615abb",
 		"id": "5",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Gregory Building"
+		"name": "Gregory Building",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653161927204-62a515d5c64f",
 		"id": "6",
 		"isFavorite": false,
 		"price": 5.99,
-		"name": "Neon Lights"
+		"name": "Neon Lights",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653161652704-d53d7130d718",
 		"id": "7",
 		"isFavorite": false,
 		"price": 3.99,
-		"name": "Paradiso"
+		"name": "Paradiso",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653185053962-c90b919508f5",
 		"id": "8",
 		"isFavorite": false,
 		"price": 3.99,
-		"name": "West Coast"
+		"name": "West Coast",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652534596577-d0371dbc8122",
 		"id": "9",
 		"isFavorite": false,
 		"price": 3.99,
-		"name": "Little eyes"
+		"name": "Little eyes",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653232619598-f607159c8865",
 		"id": "10",
 		"isFavorite": false,
 		"price": 3.99,
-		"name": "World of cameras"
+		"name": "World of cameras",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653217191141-8db2d4f58e99",
 		"id": "11",
 		"isFavorite": false,
 		"price": 3.99,
-		"name": "White flower"
+		"name": "White flower",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653202557632-b78292edfdc6",
 		"id": "12",
 		"isFavorite": false,
 		"price": 5.5,
-		"name": "Exit"
+		"name": "Exit",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652533245719-e08fced40921",
 		"id": "13",
 		"isFavorite": false,
 		"price": 5.5,
-		"name": "Peanut Eater"
+		"name": "Peanut Eater",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653162126007-7ec087750f00",
 		"id": "14",
 		"isFavorite": false,
 		"price": 5.5,
-		"name": "Colorful forest"
+		"name": "Colorful forest",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653079565876-29276711d131",
 		"id": "15",
 		"isFavorite": false,
 		"price": 5.5,
-		"name": "Photo composition"
+		"name": "Photo composition",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653146608095-08c0798f251a",
 		"id": "16",
 		"isFavorite": false,
 		"price": 5.5,
-		"name": "Pick your Drink"
+		"name": "Pick your Drink",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653050436577-41cfefd22f63",
 		"id": "17",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Blue hour"
+		"name": "Blue hour",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652533874425-c75eeb0dcecb",
 		"id": "18",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Little birdie"
+		"name": "Little birdie",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652983741957-1c535c09ee5c",
 		"id": "19",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Acapulco"
+		"name": "Acapulco",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1653007939376-7ab3d9e95f8b",
 		"id": "20",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "It is time"
+		"name": "It is time",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652972573839-827e275fbe97",
 		"id": "21",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Dog surprise"
+		"name": "Dog surprise",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652946337043-496db7588182",
 		"id": "22",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Stained glass"
+		"name": "Stained glass",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1652887974251-a12a7a05a725",
 		"id": "23",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Mountains"
+		"name": "Mountains",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1637082698028-c871b8c37603",
 		"id": "24",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Mount Agung"
+		"name": "Mount Agung",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1498889444388-e67ea62c464b",
 		"id": "25",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Above abyss"
+		"name": "Above abyss",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1548943544-56e76b7c16d0",
 		"id": "26",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Blue lagoon"
+		"name": "Blue lagoon",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1550060448-c9c753c12de2",
 		"id": "27",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Challenger"
+		"name": "Challenger",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1551027654-f7b9f56804c7",
 		"id": "28",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "San Francisco"
+		"name": "San Francisco",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee",
 		"id": "29",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Pyramids"
+		"name": "Pyramids",
+		"quantity": 1
 	},
 	{
 		"url": "https://images.unsplash.com/photo-1560527341-725efe8887d9",
 		"id": "30",
 		"isFavorite": false,
 		"price": 4.39,
-		"name": "Concert Event"
+		"name": "Concert Event",
+		"quantity": 1
 	}
 ]
